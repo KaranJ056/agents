@@ -11,7 +11,6 @@ from langchain_community.utilities import GoogleSerperAPIWrapper
 from langchain_community.utilities.wikipedia import WikipediaAPIWrapper
 
 
-
 load_dotenv(override=True)
 pushover_token = os.getenv("PUSHOVER_TOKEN")
 pushover_user = os.getenv("PUSHOVER_USER")
@@ -52,4 +51,3 @@ async def other_tools():
     python_repl = PythonREPLTool()
     
     return file_tools + [push_tool, tool_search, python_repl,  wiki_tool]
-

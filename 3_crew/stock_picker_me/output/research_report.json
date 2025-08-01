@@ -1,0 +1,52 @@
+{
+    "research_list": [
+        {
+            "name": "Infosys",
+            "market_position": "A large-cap company with a significant global presence. Strong brand recognition and a wide range of service offerings.",
+            "future_outlook": "Consistent revenue growth is expected, driven by digital transformation initiatives and investments in AI and cloud computing.",
+            "investment_potential": "A solid investment opportunity due to its strong financials, consistent dividend payouts, and focus on innovation. Investors may wait for a buying opportunity."
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "market_position": "The largest IT services company in India by market capitalization. Strong presence in various industries and a wide global footprint.",
+            "future_outlook": "Expected to maintain its leadership position through strategic partnerships, investments in new technologies, and expansion into emerging markets.",
+            "investment_potential": "A good long-term investment due to its strong fundamentals, consistent dividend payouts, and stable growth. Investors can consider staggered accumulation."
+        },
+        {
+            "name": "HCLTech",
+            "market_position": "A leading IT services company with a focus on digital, engineering, and cloud services.",
+            "future_outlook": "Cautiously optimistic outlook with projected revenue growth. Focus on strategic acquisitions and partnerships to drive growth.",
+            "investment_potential": "A potentially sound investment, especially considering its dividend yield. However, the stock might be overvalued currently."
+        },
+        {
+            "name": "Wipro",
+            "market_position": "A well-established IT services company with a diverse service portfolio and a global presence.",
+            "future_outlook": "Focus on improving operational efficiency, investing in digital capabilities, and expanding its presence in high-growth markets.",
+            "investment_potential": "Decent investment with potential for long-term growth. The company's strong balance sheet and cash reserves provide flexibility for future investments."
+        },
+        {
+            "name": "LTIMindtree",
+            "market_position": "A mid-sized IT services company with strong capabilities in digital transformation and engineering services.",
+            "future_outlook": "Growth is expected to pick up, driven by strong deal momentum and investments in key technologies such as data analytics and AI.",
+            "investment_potential": "Fundamentals look strong, and it may be good for long-term investment. The company's liquidity indicators paint a positive picture."
+        },
+        {
+            "name": "Tech Mahindra",
+            "market_position": "A leading IT services company with a focus on digital transformation, consulting, and engineering services.",
+            "future_outlook": "Strategic restructuring efforts aimed at improving operational efficiency and profitability.",
+            "investment_potential": "The stock might be overvalued currently. However, the company appears to be well-positioned to capitalize on the evolving IT services landscape."
+        },
+        {
+            "name": "Tata Elxsi",
+            "market_position": "A niche player with strong expertise in product engineering, design, and digital media.",
+            "future_outlook": "Strong growth potential due to its focus on high-growth areas such as automotive, media, and healthcare.",
+            "investment_potential": "The stock might be overvalued currently. The company's healthy balance sheet and high return on capital employed make it an attractive investment for long-term growth."
+        },
+        {
+            "name": "Persistent Systems",
+            "market_position": "A mid-sized IT services company with a focus on digital engineering and product development.",
+            "future_outlook": "Strong revenue growth is expected, driven by its expertise in digital engineering and strategic partnerships with leading technology companies.",
+            "investment_potential": "The stock might be overvalued currently. Accumulate rating recommended with a target price."
+        }
+    ]
+}

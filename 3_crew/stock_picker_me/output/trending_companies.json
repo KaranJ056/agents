@@ -1,0 +1,44 @@
+{
+    "companies": [
+        {
+            "name": "Infosys",
+            "ticker": "INFY",
+            "reason": "Mentioned in several news articles."
+        },
+        {
+            "name": "Tata Consultancy Services",
+            "ticker": "TCS",
+            "reason": "Mentioned in several news articles."
+        },
+        {
+            "name": "HCLTech",
+            "ticker": "HCLTECH",
+            "reason": "Mentioned in several news articles."
+        },
+        {
+            "name": "Wipro",
+            "ticker": "WIT",
+            "reason": "Mentioned in several news articles."
+        },
+        {
+            "name": "LTIMindtree",
+            "ticker": "null",
+            "reason": "Mentioned in several news articles."
+        },
+        {
+            "name": "Tech Mahindra",
+            "ticker": "TECHM",
+            "reason": "Mentioned in several news articles."
+        },
+        {
+            "name": "Tata Elxsi",
+            "ticker": "TATAELXSI",
+            "reason": "Mentioned in several news articles."
+        },
+        {
+            "name": "Persistent Systems",
+            "ticker": "PERSISTENT",
+            "reason": "Mentioned in several news articles."
+        }
+    ]
+}

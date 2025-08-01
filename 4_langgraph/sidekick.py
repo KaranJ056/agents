@@ -13,6 +13,7 @@ from sidekick_tools import playwright_tools, other_tools
 import uuid
 import asyncio
 from datetime import datetime
+from langchain.chat_models import init_chat_model
 
 load_dotenv(override=True)
 
@@ -45,9 +46,11 @@ class Sidekick:
     async def setup(self):
         self.tools, self.browser, self.playwright = await playwright_tools()
         self.tools += await other_tools()
-        worker_llm = ChatOpenAI(model="gpt-4o-mini")
+        # worker_llm = ChatOpenAI(model="gpt-4o-mini")
+        worker_llm = init_chat_model(model="google_genai:gemini-2.0-flash-lite")
         self.worker_llm_with_tools = worker_llm.bind_tools(self.tools)
-        evaluator_llm = ChatOpenAI(model="gpt-4o-mini")
+        # evaluator_llm = ChatOpenAI(model="gpt-4o-mini")
+        evaluator_llm = init_chat_model(model="google_genai:gemini-2.0-flash-lite")
         self.evaluator_llm_with_output = evaluator_llm.with_structured_output(EvaluatorOutput)
         await self.build_graph()
 

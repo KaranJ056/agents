@@ -1,28 +1,31 @@
-Flight Deals from JFK to LHR - June 2025:
+### Flight Deals from Mumbai to Dubai in August 2025
 
-1. Airline: Virgin Atlantic
-   - Price: $497
-   - Non-stop
-   - In-flight amenities: meals, drinks, entertainment, WiFi
+1. **Airline**: Emirates
+   - **Type**: Non-Stop
+   - **Price**: $296
+   - **Duration**: 3 hours 15 minutes
+   - **Departure**: Chhatrapati Shivaji International Airport
+   - **Arrival**: Dubai Airport
 
-2. Airline: JetBlue
-   - Price: $314
-   - Non-stop
-   - Booking available now
+2. **Airline**: IndiGo
+   - **Type**: Non-Stop
+   - **Price**: $222
+   - **Duration**: 3 hours 15 minutes
+   - **Departure**: Chhatrapati Shivaji International Airport
+   - **Arrival**: Dubai Airport
 
-3. Airline: Delta
-   - Price: $239
-   - Non-stop
-   - Additional services: earns airline miles
+3. **Airline**: Air India
+   - **Type**: Non-Stop
+   - **Price**: INR 59,999 (Approx. $724)
+   - **Duration**: 3 hours 15 minutes
+   - **Departure**: Chhatrapati Shivaji International Airport
+   - **Arrival**: Dubai Airport
 
-4. Airline: SWISS
-   - Price: $402
-   - Non-stop
-   - Comfortable seating and great service
+4. **Cheapest Flight**: Various airlines
+   - **Type**: Non-Stop
+   - **Price**: Starting from $93 (Limited availability)
+   - **Duration**: 3 hours 15 minutes
+   - **Note**: Usually requires early booking for the best deals.
 
-5. Airline: United Airlines
-   - Price: $450
-   - Non-stop
-   - Great onboard experience
-
-Best Deal: JetBlue at $314 for a non-stop flight from JFK to LHR. 
+### Summary
+The best deal found is with **IndiGo** at **$222**, offering a non-stop option with a short duration. 
